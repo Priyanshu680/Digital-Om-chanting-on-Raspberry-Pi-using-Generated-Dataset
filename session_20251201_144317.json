@@ -1,0 +1,7117 @@
+{
+  "start_time": "2025-12-01T14:43:17.129544",
+  "duration": 76.499405,
+  "frames": [
+    {
+      "timestamp": 4.470487,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 4.51748,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 4.58104,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 4.645624,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 4.706935,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 4.765026,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 4.820039,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 4.873363,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 4.924368,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 4.975549,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 5.028201,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 5.085713,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 5.141238,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 5.179244,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 5.240867,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 5.299818,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 5.350394,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 5.402645,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 5.464188,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 5.517258,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 5.5697,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 5.627883,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 5.679405,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 5.734156,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.028356,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.085668,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.129352,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.165435,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.209437,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.255642,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.296974,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.335899,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.380542,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.424724,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.468439,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.507026,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.558572,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.60753,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.647263,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.698619,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.754821,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.800039,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.847802,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.890545,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.941928,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 6.987073,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.03053,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.074775,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.123539,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.171919,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.21748,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.266032,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.301132,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.342382,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.384058,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.41908,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.467847,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.513543,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.568999,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.611634,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.65602,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.70616,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.751053,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.796441,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.838587,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.888799,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 7.938403,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 8.000364,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 28.571379,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 28.613178,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 28.649288,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 28.684368,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 28.736875,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 28.783921,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 28.825623,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 28.869208,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 28.911145,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 28.950945,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.00179,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.049447,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.090105,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.130889,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.172043,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.216173,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.255359,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.296936,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.336877,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.403372,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.523578,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.604219,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.673386,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.743169,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.806103,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.877111,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.939669,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 29.981824,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.031111,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.083123,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.139316,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.185257,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.228986,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.264783,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.304172,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.345681,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.385851,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.433126,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.472745,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.511907,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.550011,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.592166,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.634088,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.677165,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.715899,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.756715,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.803256,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.844981,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.884469,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.929823,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 30.971941,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.016114,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.063731,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.105564,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.153237,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.199251,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.245776,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.289922,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.331396,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.369553,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.408186,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.449304,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.498007,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.542823,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.589632,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.635182,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.677878,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.724008,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.766252,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.811099,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.853161,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.896333,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.935925,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 31.979166,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.019788,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.065198,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.106885,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.151501,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.190826,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.234238,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.276029,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.321768,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.361002,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.395295,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.439595,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.479481,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.521849,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.558134,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.597894,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.638988,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.685195,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.732812,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.774264,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.815434,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.859599,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.906256,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.946029,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 32.984626,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.023925,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.068549,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.112194,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.155141,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.203247,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.249674,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.298818,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.341078,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.408448,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.452497,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.494816,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.541679,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.590852,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.642071,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.683139,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 33.749593,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 33.794263,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 34.530051,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 34.575608,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 34.621318,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 34.66733,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 34.713295,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 34.759368,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 34.801016,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 34.84431,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 34.884206,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 34.924065,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 34.967308,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.01006,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.053575,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.095293,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.143002,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.188643,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.226364,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.267204,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.308916,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.349675,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.399628,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.448637,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.489515,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.52831,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.57246,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.611305,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.649309,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.689855,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.730988,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.773579,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.811178,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.848921,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.894049,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.934243,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 35.978679,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.023873,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.066028,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.115198,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.157611,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.199345,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.236031,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.271079,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.314296,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.355246,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.397238,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.435033,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.477915,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.528671,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.577827,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.62144,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.658014,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.696949,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.736451,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.778546,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.819604,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.861263,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.898239,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.946884,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 36.995515,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.034276,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.080096,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.117344,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.15644,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.195516,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.237417,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.278176,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.319382,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.356656,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.397096,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.44107,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.484103,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.521026,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.561107,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.60414,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.652256,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.696221,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.740957,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.78499,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.826028,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.876522,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.918895,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 37.965354,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.010223,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.052818,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.113996,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.155751,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.197199,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.234689,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.270191,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.305611,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.343758,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.381639,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.421061,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.458193,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.498102,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.541215,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.581866,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.626455,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.670025,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.707164,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.754416,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.795485,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.836649,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.873948,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.912205,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.954167,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 38.998384,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.040102,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.082518,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.129941,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.182497,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.240932,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.296606,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.349786,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.408545,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.458257,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.507425,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.545484,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.583255,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.623897,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.660853,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.703112,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.739667,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.80563,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.848419,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.888474,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.928561,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 39.973044,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.011174,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.052806,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.090936,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.133412,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.176203,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.218385,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.25947,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.299099,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.337606,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.375576,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.417228,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.459361,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.502511,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.53831,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.580018,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.621035,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.658722,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.700821,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.737415,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.780034,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.817271,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.851985,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.891916,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.9279,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.961448,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 40.998304,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.037808,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.077569,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.115468,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.151901,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.188598,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.229619,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.273046,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.314228,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.357215,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.390808,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.429517,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.474192,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.515362,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.55443,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.596584,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.643263,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.68424,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.719629,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.765585,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.810235,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.846026,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.884809,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.926038,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 41.96865,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.003576,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.038608,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.073104,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.106702,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.135269,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.197486,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.240079,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.276487,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.319155,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.356609,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.39389,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.435927,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.477483,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.51962,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.559705,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.605049,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.649326,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.693435,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.737903,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.773605,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.811528,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.854358,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.890001,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.927093,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 42.971954,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.012902,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.048507,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.087951,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.131062,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.181029,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.223953,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.256618,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.290913,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.328492,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.36794,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.40385,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.441814,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.481227,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.518945,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.552891,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.587128,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.620794,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.659726,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.694298,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.732395,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.767172,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.798465,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.831944,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.864959,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.896414,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.925606,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 43.968092,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.005335,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.047075,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.087946,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.127377,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.162703,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.203735,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.244631,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.285788,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.318266,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.366204,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.407068,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.447327,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.488837,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.529272,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.570854,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.606838,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.648646,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.698253,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.741157,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.786075,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.82791,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.868678,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.909346,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.954686,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 44.999248,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.038438,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.081944,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.12869,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.169569,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.21506,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.25693,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.301351,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.341983,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.37891,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.41965,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.460172,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.501188,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.538133,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.576662,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.617174,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.655812,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.698958,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.738418,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.780033,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.821674,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.864615,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.911274,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.951441,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 45.995072,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 46.035416,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 46.067495,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 46.103921,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 46.142075,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 46.180233,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 46.209695,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 46.244088,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 46.282294,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 46.315878,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 46.350921,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 46.384077,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 46.423208,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 46.45961,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 46.494451,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 46.537113,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 46.573303,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 46.611418,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 46.647839,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 46.688997,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 46.728922,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 46.770913,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 46.808548,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 46.856709,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 46.904226,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 46.945452,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 46.984004,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.021113,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.063014,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.100094,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.144024,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.178931,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.214944,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.256817,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.300967,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.343232,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.387546,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.435895,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.476296,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.511102,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.568061,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.610784,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.649578,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.68866,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.729038,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.77183,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.809189,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.837021,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.869631,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.902959,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.936724,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 47.974504,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.009307,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.045049,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.084084,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.118753,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.150882,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.182448,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.223606,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.26333,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.298076,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.333269,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.367622,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.403285,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.43813,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.475841,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.509839,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.553674,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.594161,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.636083,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.681677,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.733311,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.77571,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.818318,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.858849,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.898167,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.936736,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 48.974333,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.015532,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.069748,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.109594,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.156754,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.199097,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.241961,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.286373,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.324906,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.366106,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.404985,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.435205,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.473374,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.509824,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.54291,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.57862,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.611214,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.641948,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.67168,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.703954,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.740059,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.776664,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.808253,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.840764,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.878872,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.909994,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.94353,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 49.974152,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.009182,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.062149,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.087303,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.12255,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.157928,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.194663,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.228516,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.261015,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.295797,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.328388,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.36311,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.390177,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.422293,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.454363,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.491681,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.527163,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.562699,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.602154,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.637579,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.671722,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.706319,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.741441,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.776575,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.808682,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.838256,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.873643,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.910802,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.946135,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 50.997128,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.027731,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.061343,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.09795,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.14527,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.18692,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.227994,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.269112,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.311088,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.358673,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.398614,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.442699,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.486032,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.528554,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.566985,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.603836,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.644977,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.683081,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.722466,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.765982,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.811027,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.847964,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.888595,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.9273,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 51.968409,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.011971,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.054702,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.098036,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.136823,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.176002,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.217325,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.255376,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.293271,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.332838,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.373077,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.412434,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.452429,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.488459,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.530957,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.572856,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.616231,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.655835,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 52.705062,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 53.174917,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 53.219201,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 53.262431,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 53.305889,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 53.347018,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 53.39024,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 53.437478,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 53.478174,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 53.523947,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 53.558572,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 53.600859,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 53.647051,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 54.118891,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 54.161826,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 54.215995,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 54.661149,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 54.710902,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 54.752402,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 54.795007,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 54.838262,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 54.887093,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 54.93118,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 55.477372,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 56.203769,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 56.244424,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.28426,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.328023,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.376495,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.416998,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.457988,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.498411,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.537423,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.614929,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.649078,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.691224,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.734354,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.772295,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.815721,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.869666,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.916379,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 56.959231,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.003133,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.046521,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.087904,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.128162,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.175248,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.216534,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.259817,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.30834,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.356981,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.407164,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.450275,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.494315,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.537429,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.57941,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.624165,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.667671,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.709748,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.750962,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.791127,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.831812,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.872523,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.907115,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.944206,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 57.978792,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 58.020819,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 58.069019,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 58.108614,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 58.151095,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 58.194148,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 58.234551,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 58.269047,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 58.308921,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 58.350175,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 58.397293,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 58.444185,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 58.956215,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 59.661151,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 59.699837,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 59.750964,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 59.794912,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 59.833558,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 59.878003,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 60.299601,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 60.348746,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 60.395035,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 60.428699,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 60.469439,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 60.512966,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 60.565546,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 61.036077,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 61.07711,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 61.544665,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 61.592515,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 61.629292,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 61.669771,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 61.709872,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 61.755554,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.238188,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.28055,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.325167,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.37119,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.410954,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.458289,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.503917,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.542285,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.582478,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.628241,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.668347,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.713277,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.754417,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.789328,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.830001,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.869287,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.908923,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 62.948975,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.003219,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.052285,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.094884,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.133693,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.177941,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.222736,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.266718,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.307312,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.348148,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.402899,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.445525,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.488225,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.530885,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.57089,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.608037,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.646125,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.686239,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.728849,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.775316,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.831852,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.876982,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.925145,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 63.973228,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.022384,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.074068,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.117179,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.158958,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.209769,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.250857,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.291307,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.336489,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.37705,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.417027,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.453945,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.4911,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.531751,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.56803,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.604627,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.642032,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.691813,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.734704,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.773345,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.812115,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.856069,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.896379,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.939492,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 64.995232,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.047965,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.097301,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.133451,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.174184,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.22079,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.25591,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.295296,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.332878,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.375114,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.418786,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.457861,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.497054,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.536126,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.57815,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.628974,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.671729,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.712349,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.754674,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.798937,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.834646,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.873475,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.916062,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.955146,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 65.99323,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.029321,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.065445,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.101002,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.142863,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.181962,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.224546,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.262607,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.298187,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.33823,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.376319,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.41443,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.454517,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.493985,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.527943,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.56606,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.605147,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.645161,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.689117,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.728923,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 66.76534,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.804674,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.841122,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.893018,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.93851,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 66.983547,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.028474,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.068022,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.107361,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.145561,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.187708,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.228612,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.268966,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.303036,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.341181,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.400969,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.444244,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.480935,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.52014,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.558311,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.596451,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.641829,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.679616,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 67.713904,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 67.754864,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 67.805538,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 67.849648,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 67.889407,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 68.461083,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 68.501686,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 68.545295,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 68.585375,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 68.628178,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 68.673028,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 68.712218,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 68.749383,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 68.800992,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 68.837264,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 68.876124,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 68.916457,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 68.962047,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.00429,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.045571,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.084745,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.125284,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.16881,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.213072,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.251269,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.297651,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.333033,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.375952,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.416318,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.455629,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.496017,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.533489,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.569477,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.618844,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 69.66769,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 70.112622,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 70.153933,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 70.586202,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 70.632271,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 70.677253,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 70.719189,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 70.767664,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 70.809078,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 70.848531,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 70.88367,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 70.921544,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "neutral"
+    },
+    {
+      "timestamp": 70.959314,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 70.998693,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.037407,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.076988,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.11569,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.154871,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.201172,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.23828,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.279448,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.315041,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.350167,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.386834,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.428429,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.463568,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.499537,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.540189,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.579168,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.617871,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.65925,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.699907,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.73772,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.804566,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.844286,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.882771,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.924009,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 71.969917,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 72.016854,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 72.057308,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 72.104214,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 72.141567,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 72.204699,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 72.247398,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 72.284268,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 72.327836,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 72.366446,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 72.409662,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 72.451432,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 72.502509,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 72.542247,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 72.993603,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 73.036398,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 73.077542,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 73.1195,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 73.156438,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 73.197742,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 73.24015,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 73.288947,
+      "neutrality": 1.0,
+      "eyes_closed": true,
+      "audio_playing": true,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 73.752876,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 73.796236,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 73.83903,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 73.880077,
+      "neutrality": 0.15,
+      "eyes_closed": true,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 73.924409,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 73.967736,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.01193,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.056504,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.107346,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.154052,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.199641,
+      "neutrality": 1.0,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.243466,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.284383,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.331592,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.370945,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.413189,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.45869,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.500956,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.551032,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.593397,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.638713,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.680014,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.722364,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.759711,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.799813,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.841612,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.883772,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.928174,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 74.973618,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.018558,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.058809,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.103095,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.145413,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.192217,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.235233,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.27915,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.324744,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.363084,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.403044,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.446471,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.491255,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.534297,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.580949,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.624198,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.661585,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.705857,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.747565,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.788402,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.824821,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.85961,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.902124,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.936507,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 75.978113,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 76.019644,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 76.062604,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    },
+    {
+      "timestamp": 76.100958,
+      "neutrality": 0.15,
+      "eyes_closed": false,
+      "audio_playing": false,
+      "expression": "happy"
+    }
+  ],
+  "metrics": {
+    "total_frames": 1015,
+    "eyes_closed_count": 151,
+    "audio_playing_time": 34,
+    "avg_neutrality": 0.21113300492610837
+  }
+}
