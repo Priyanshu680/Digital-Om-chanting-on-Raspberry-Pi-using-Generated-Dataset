@@ -183,7 +183,7 @@ Add screenshots of:
 
 ## 📚 Project Report
 
-The complete project report is available in the **docs/** directory.
+The complete project report is available in the directory.
 
 ---
 
