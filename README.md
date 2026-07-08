@@ -65,19 +65,20 @@ Digital-Om-Chanting-Raspberry-Pi/
 │   ├── audio_manager.py
 │   └── session_tracker.py
 │
-├── dataset/
+├── data/
 │
 ├── models/
 │
 ├── audio/
 │   └── om_chant.mp3
+│   └── eye_open.wav
+│   └── eye_closed.wav
 │
 ├── images/
 │
-├── outputs/
+├── Demo Videos/
 │
-└── docs/
-    └── Project_Report.pdf
+└── Project_Report(1).pdf
 ```
 
 ---
