@@ -61,8 +61,7 @@ Digital-Om-Chanting-Raspberry-Pi/
 ├── src/
 │   ├── main.py
 │   ├── face_detector.py
-│   ├── eye_detection.py
-│   ├── emotion_detection.py
+│   ├── face_database.py
 │   ├── audio_manager.py
 │   └── session_tracker.py
 │
