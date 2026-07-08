@@ -54,7 +54,9 @@ The project demonstrates how embedded AI can be used to enhance traditional medi
 Digital-Om-Chanting-Raspberry-Pi/
 │
 ├── README.md
-├── LICENSE
+├── TOOL_REPORT.md
+├── package.json
+├── pyvenv.cfg
 ├── requirements.txt
 ├── .gitignore
 │
