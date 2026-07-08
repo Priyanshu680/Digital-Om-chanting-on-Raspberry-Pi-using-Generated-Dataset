@@ -1,0 +1,13 @@
+streamlit==1.35.0
+opencv-python==4.8.1.78
+mediapipe==0.10.14
+# Use a newer NumPy wheel for Python 3.12 to avoid building from source
+numpy==1.26.4
+pygame==2.5.2
+pydub==0.25.1
+# Pin protobuf to 4.25.3 for MediaPipe compatibility; prevent dependency upgrades
+protobuf==4.25.3
+
+# Pin protobuf to a 4.x release compatible with MediaPipe
+# MediaPipe 0.10.x expects protobuf >=4.25.3 and <5
+protobuf==4.25.3
